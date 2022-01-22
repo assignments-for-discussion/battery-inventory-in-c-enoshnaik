@@ -9,8 +9,6 @@ struct CountsByUsage {
 
 struct CountsByUsage countBatteriesByUsage(const int* cycles, int nBatteries) {
   struct CountsByUsage counts = {0, 0, 0};
-  for(i=0;i<n;i++)
-  {
   return counts;
 }
 
